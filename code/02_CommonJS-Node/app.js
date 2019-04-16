@@ -1,5 +1,4 @@
 
-
 const p2=require('./modular1')
 const p3=require('./moduler2')
 
